@@ -1,4 +1,6 @@
 # Amigo-Secreto 🎁
+![Portada_amigo_secreto](https://github.com/user-attachments/assets/c7071970-20c8-426f-9778-505e0a32c0dd)
+
 Amigo Secreto |  Primer reto de Principiante en Programación de Alura Latam
 
 Este es un proyecto (_Challenge 1_) que permite ingresar nombres de amigos y realizar un serteo aleatorio para determinar quién será el "amigo secreto".
