@@ -64,7 +64,7 @@ git clone https://github.com/lcas-cas/Amigo-Secreto.git
 
 # 🔧 Implementación Técnica
 
-**Captura y validación de entrada**
+## **Captura y validación de entrada**
 
 - Se obtiene el valor del campo de entrada con `document.getElementById()`.
 
@@ -74,7 +74,7 @@ git clone https://github.com/lcas-cas/Amigo-Secreto.git
 
 - Se limpia el campo de entrada después de añadir el nombre.
 
-# **Actualización de la lista de amigos**
+## **Actualización de la lista de amigos**
 
 - Se obtiene la lista usando `document.getElementById()`.
 
@@ -85,7 +85,7 @@ git clone https://github.com/lcas-cas/Amigo-Secreto.git
 - Se añaden los elementos a la lista visible en la interfaz.
 
 
-# **Sorteo del amigo secreto**
+## **Sorteo del amigo secreto**
 
 - Antes de realizar el sorteo, se valida que la lista no esté vacía.
 
