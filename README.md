@@ -15,6 +15,16 @@ El desafío está diseñado para poner en practica las habilidades en lógica de
 
 - Realizar un sorteo aleatorio para determinar quién es el "amigo secreto"
 
+# 📷 Capturas de Pantalla
+**Agregar nombres a la lista**
+
+![Agregar_amigo](https://github.com/user-attachments/assets/c3dcde90-090f-4435-a9f1-2f7e31143f76)
+
+**Sorteo del amigo secreto**
+
+![Sorteo_amigo_secreto](https://github.com/user-attachments/assets/9f5ba893-5098-48cb-a897-969c36f5778d)
+
+
 # 🚀  Tecnologías Utilizadas
 
 -  HTML5: Estructura del sitio.
